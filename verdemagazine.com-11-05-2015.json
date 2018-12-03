@@ -1,0 +1,383 @@
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en-US">
+<head>
+
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />	
+<title>Verde Magazine | Palo Alto High School&#039;s Student Publication &raquo; Page not found</title>
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=1" />
+<link rel="stylesheet" href="http://verdemagazine.com/wp-content/themes/theron_pro/style.css" type="text/css" media="screen" />
+<link rel="pingback" href="http://verdemagazine.com/xmlrpc.php" />
+<style type="text/css">
+/*LOGO COLOR*/
+.logo h1 a, .desc{color:#ffffff!important;}
+
+/*Mneu Font Color*/
+body #topmenu ul li a , body #topmenu ul li ul li a, body #topmenu ul li ul li ul li a, .lay2 .postitle a, #menu-icon{color:#ffffff!important;}
+
+#footmenu a, #footmenu, .copytext, .copytext a, body #copyright a, body #copyright{ color:#888;}
+
+/*Disable all pattern images*/
+#header, #topmenu ul li ul li, .lay2 .post_content, #copyright, body #topmenu ul > li ul li:hover{ background-image:none!important;}
+body #menu_wrap, #topmenu ul li ul li{ background:#302f2f url("http://verdemagazine.com/wp-content/themes/theron_pro/images/transblack.png") repeat!important;}
+
+/*POST TITLE*/
+.postitle a, .single_post .postitle, .midrow_block h3{color:#000000!important;}
+
+/*OTHER HEADINGS*/
+#sidebar .widgettitle, #sidebar .widgettitle a, #footer .widgets .widgettitle, #footer .widgets .widgettitle a, #related h3{ color:#1e1e1e!important;}
+
+/*Content Font Color*/
+body, a, .comment-form-author input, .comment-form-email input, .comment-form-url input, .comment-form-comment textarea, .form-submit input, #searchsubmit, .amp_page, .amp_next, .amp_prev, .page-numbers, .amp_page:hover, .amp_next:hover, .amp_prev:hover, .page-numbers:hover, .navigation .current, .single_post .scl_button a:hover, #footer .widgets .widget ul li .znn_wgt_tt, #searchform #s, .entry-content input, .entry-content textarea, .entry-content #submit_msg, .comm_meta_reply a, #thn_welcom, .single_metainfo a, .catag_list a, .tag_list a, .single_post .share_this a, #sidebar .widgets .widget li a{color:#1e1e1e;}
+.comm_meta_reply a, .org_comment .comm_date, body .org_comment .comment-edit-link, body .org_comment .comment-reply-link, .org_ping .comm_date, body .org_ping .comment-edit-link, body .org_ping .comment-reply-link, ul#tabs li a.current, .lay2 .date_meta, #footer .widgets .widget ul li a{color:#1e1e1e!important;}
+
+.comments_template #comments, #comments_ping, .commentmetadata span{color:#1e1e1e!important;}
+/*LINK COLOR*/
+.postitle a:hover, .thn_post_wrap a { color:#2bb975!important;}
+
+
+
+/*Primary Elements Color*/
+.slider-wrapper, #slide_acord, #thn_welcom, .midrow_blocks, .lay1 .hentry, .lay2 .hentry, .lay3 .hentry, .lay4 .hentry, #footer, .amp_page:hover, .amp_next:hover, .amp_prev:hover, .page-numbers:hover, .navigation .current, .single_wrap .single_post, #newslider, #sidebar .widgets .widget, .comments_template, #commentform, .comment-form-author label, .comment-form-email label, .comment-form-url label, .trigger_wrap, .search_term, .amp_page, .amp_next, .amp_prev, .page-numbers, .single_post .scl_button a:hover { background:#ffffff!important;}
+
+
+/*Secondary Elements Color*/
+#newslider_home ul#tabs_home li a.current, #newslider_home .news_buttn, .midrow_block:hover, .lay1 .catmeta, .lay4 .catmeta, #wp-calendar #today, .form-submit input, #searchsubmit, .single_post .scl_button a, .entry-content #submit_msg, .amp_current, .amp_current:hover{ background:#2bb975!important;}
+
+.lay1 .postitle a:hover, .lay2 .postitle a:hover, .lay3 .postitle a:hover, .lay4 .postitle a:hover, .lay5 .postitle a:hover, .thn_twitter .tweet_text a, .widget_tag_cloud a:hover, .textwidget a, #newslider h3, ul#tabs li a:hover, .comments_template #comments a, .commentmetadata, .commentmetadata a, .org_comment a, .org_ping a, h3#reply-title, .logged-in-as a, .archive-template ul li a:hover, #thn_welcom a{color:#2bb975!important;}
+
+.nivo-caption, .lay2 .post_content, #sidebar .widgettitle, #sidebar .widgettitle a {border-color:#2bb975;}
+#topmenu{ border-bottom-color:#2bb975!important;}
+
+body #topmenu ul > li ul li:hover, .menu_active{ background:#2bb975 
+!important;}
+
+
+/*TEXT COLOR ON SECONDARY ELEMENTS*/
+.midrow_block:hover h3, .form-submit input, #searchsubmit, #topmenu ul > li ul li:hover > a, .lay1 .catmeta a, .lay4 .catmeta a, .amp_current, .entry-content #submit_msg, .midrow_block:hover, .midrow_block:hover a{color:#ffffff!important;}
+
+
+/*Tertiary Elements Color*/
+#header, #topmenu ul li ul li, .lay2 .post_content, #copyright{background:#302f2f !important;}
+#menu_wrap{background:#302f2f !important;}
+
+#topmenu ul li ul li{ border-bottom:1px solid #333;}
+/*ELEMENT BORDER*/
+.lay4 .hentry, .single_wrap .single_post, .post_foot, ul#tabs li , #sidebar .widgets .widget li, .comments_template #comments, #comments_ping, #comments_ping, .commentlist li, #sidebar #searchform #s, #wp-calendar caption, #footer #wp-calendar caption, .thn_paginate span, .thn_paginate a, .navigation a, .navigation span, .wp-caption, .comment-form-author input, .comment-form-email input, .comment-form-url input, .comment-form-comment textarea, .comment-form-author label, .comment-form-email label, .comment-form-url label{ border-color:#f5f5f5;}
+
+
+
+</style>
+
+    	<link rel="alternate" type="application/rss+xml" title="Verde Magazine | Palo Alto High School&#039;s Student Publication &raquo; Feed" href="http://verdemagazine.com/feed" />
+<link rel="alternate" type="application/rss+xml" title="Verde Magazine | Palo Alto High School&#039;s Student Publication &raquo; Comments Feed" href="http://verdemagazine.com/comments/feed" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"http:\/\/s.w.org\/images\/core\/emoji\/72x72\/","ext":".png","source":{"concatemoji":"http:\/\/verdemagazine.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.2.2"}};
+			!function(a,b,c){function d(a){var c=b.createElement("canvas"),d=c.getContext&&c.getContext("2d");return d&&d.fillText?(d.textBaseline="top",d.font="600 32px Arial","flag"===a?(d.fillText(String.fromCharCode(55356,56812,55356,56807),0,0),c.toDataURL().length>3e3):(d.fillText(String.fromCharCode(55357,56835),0,0),0!==d.getImageData(16,16,1,1).data[0])):!1}function e(a){var c=b.createElement("script");c.src=a,c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g;c.supports={simple:d("simple"),flag:d("flag")},c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.simple&&c.supports.flag||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='contact-form-7-css'  href='http://verdemagazine.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=4.1.2' type='text/css' media='all' />
+<!--[if IE 8]>
+<link rel='stylesheet' id='thn_ie-css'  href='http://verdemagazine.com/wp-content/themes/theron_pro/css/ie.css?ver=1.5' type='text/css' media='all' />
+<![endif]-->
+<link rel='stylesheet' id='customfont-css'  href='http://verdemagazine.com/wp-content/themes/theron_pro/fonts/yanone_kaffeesatz.css?ver=4.2.2' type='text/css' media='all' />
+<link rel='stylesheet' id='jetpack_image_widget-css'  href='http://verdemagazine.com/wp-content/plugins/jetpack/modules/widgets/image-widget/style.css?ver=20140808' type='text/css' media='all' />
+<link rel='stylesheet' id='jetpack_css-css'  href='http://verdemagazine.com/wp-content/plugins/jetpack/css/jetpack.css?ver=3.5.3' type='text/css' media='all' />
+<!-- This site uses the Google Analytics by Yoast plugin v5.4.2 - Universal enabled - https://yoast.com/wordpress/plugins/google-analytics/ -->
+<script type="text/javascript">
+	(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+		(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+		m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+	})(window,document,'script','//www.google-analytics.com/analytics.js','__gaTracker');
+
+	__gaTracker('create', 'UA-51262725-1', 'auto');
+	__gaTracker('set', 'forceSSL', true);
+	__gaTracker('require', 'displayfeatures');
+	__gaTracker('send','pageview','/404.html?page=' + document.location.pathname + document.location.search + '&from=' + document.referrer);
+
+</script>
+<!-- / Google Analytics by Yoast -->
+<script type='text/javascript' src='http://verdemagazine.com/wp-includes/js/jquery/jquery.js?ver=1.11.2'></script>
+<script type='text/javascript' src='http://verdemagazine.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.2.1'></script>
+<script type='text/javascript' src='http://verdemagazine.com/wp-content/themes/theron_pro/theron.js?ver=4.2.2'></script>
+<script type='text/javascript' src='http://verdemagazine.com/wp-content/themes/theron_pro/js/other.js?ver=4.2.2'></script>
+<script type='text/javascript' src='http://verdemagazine.com/wp-content/themes/theron_pro/js/featureList.js?ver=4.2.2'></script>
+<script type='text/javascript' src='http://verdemagazine.com/wp-content/themes/theron_pro/js/jquery.nivo.js?ver=4.2.2'></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://verdemagazine.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://verdemagazine.com/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 4.2.2" />
+
+<link rel='dns-prefetch' href='//jetpack.wordpress.com'>
+<link rel='dns-prefetch' href='//s0.wp.com'>
+<link rel='dns-prefetch' href='//s1.wp.com'>
+<link rel='dns-prefetch' href='//s2.wp.com'>
+<link rel='dns-prefetch' href='//public-api.wordpress.com'>
+<link rel='dns-prefetch' href='//0.gravatar.com'>
+<link rel='dns-prefetch' href='//1.gravatar.com'>
+<link rel='dns-prefetch' href='//2.gravatar.com'>
+<link rel='dns-prefetch' href='//i0.wp.com'>
+<link rel='dns-prefetch' href='//i1.wp.com'>
+<link rel='dns-prefetch' href='//i2.wp.com'>
+<style type='text/css'>img#wpstats{display:none}</style>
+
+
+
+<style type="text/css">
+.comm_date{ background:url(http://verdemagazine.com/wp-content/themes/theron_pro/images/icons.png) no-repeat;background-position: 0px 3px;}
+.meta_auth{ background:url(http://verdemagazine.com/wp-content/themes/theron_pro/images/icons.png) no-repeat;background-position: 0px -10px;}
+.catag_list a{background:url(http://verdemagazine.com/wp-content/themes/theron_pro/images/icons.png) no-repeat; background-position: 0px -37px;}
+.tag_list a{background:url(http://verdemagazine.com/wp-content/themes/theron_pro/images/icons.png) no-repeat; background-position: 0px -25px;}
+.post-edit-link{background:url(http://verdemagazine.com/wp-content/themes/theron_pro/images/icons.png) no-repeat; background-position: 0px -49px;}
+.comment-reply-link{ background:url(http://verdemagazine.com/wp-content/themes/theron_pro/images/icons.png) no-repeat; background-position:0px -63px;}
+.comment-edit-link{background:url(http://verdemagazine.com/wp-content/themes/theron_pro/images/icons.png) no-repeat; background-position:0px -49px; }
+#sidebar .widget_archive li, #sidebar .widget_meta li, #sidebar .widget_recent_entries li, #sidebar .widget_nav_menu li, #sidebar .widget_recent_comments li, #sidebar .widget_pages li, #sidebar .widget_links li, #sidebar .widget_categories li{list-style-image:url(http://verdemagazine.com/wp-content/themes/theron_pro/images/list_type.png);}
+</style>
+
+
+<style type="text/css">
+.header1 .logo, #thn_welcom, .midrow_blocks, .lay1 .hentry, .lay2 .hentry, .lay3 .hentry, .lay4 .hentry, #footer, .single_wrap .single_post, #newslider, #sidebar .widgets .widget, .comments_template, .search_term{box-shadow:0px 0px 2px rgba(0, 0, 0, .1);-moz-box-shadow:0px 0px 2px rgba(0, 0, 0, .1); -webkit-box-shadow:0px 0px 2px rgba(0, 0, 0, .1);}
+</style>
+
+
+
+
+<style type="text/css" id="custom-background-css">
+body.custom-background { background-color: #ffffff; }
+</style>
+
+</head>
+
+
+<body class="error404 custom-background">
+<!--[if lte IE 7]><script src="/ie6/warning.js"></script><script>window.onload=function(){e("/ie6/")}</script><![endif]-->
+
+    <div class="center header1-social">
+ <!--SOCIAL ICONS-->   
+<div class="social_wrap">
+    <div class="social">
+<ul>
+<li class="soc_fb"><a title="Facebook" target="_blank" href="facebook.com/verdemagazine">Facebook</a></li><li class="soc_tw"><a title="Twitter" target="_blank" href="https://twitter.com/verdemagazine">Twitter</a></li><li class="soc_ytb"><a title="Youtube" target="_blank" href="https://www.youtube.com/channel/UCNZ5mTRcqDzm4fSH7lcMRMw">Youtube</a></li></ul>
+    </div>
+</div>
+  <!--SOCIAL ICONS END-->   
+</div> 
+<!--HEADER START-->
+<div class="headcenter header1">
+<div id="header">
+
+
+    	<!--LOGO START-->
+        <div class="logo">
+                     <div class="outer-center">
+        <div class="inner-center">
+         <a title="Verde Magazine | Palo Alto High School&#039;s Student Publication" href="http://verdemagazine.com/"><img src="http://verdemagazine.com/wp-content/uploads/2014/12/Banner.jpg" /></a>
+         </div>
+   		 </div>
+    	 <div style="clear: both;"></div>
+                 <div class="desc"></div>
+        </div>
+        
+        <!--LOGO END-->
+        
+        <!--MENU STARTS-->
+        <div id="menu_wrap"><div class="center"><div id="topmenu"><div class="menu-header"><ul id="menu-primary" class="menu"><li id="menu-item-2559" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-2559"><a href="http://verdemagazine.com">Home</a></li>
+<li id="menu-item-2567" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2567"><a href="http://verdemagazine.com/category/news">News</a></li>
+<li id="menu-item-2565" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2565"><a href="http://verdemagazine.com/category/features">Features</a></li>
+<li id="menu-item-2569" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2569"><a href="http://verdemagazine.com/category/profiles">Profiles</a></li>
+<li id="menu-item-2564" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2564"><a href="http://verdemagazine.com/category/culture">Culture</a></li>
+<li id="menu-item-2568" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2568"><a href="http://verdemagazine.com/category/perspectives">Perspectives</a></li>
+<li id="menu-item-5371" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5371"><a href="http://verdemagazine.com/archives">Archives</a></li>
+<li id="menu-item-2562" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2562"><a href="http://verdemagazine.com/about">About</a></li>
+</ul></div></div></div></div>
+        <!--MENU END-->
+        
+
+</div>
+</div>
+
+<!--HEADER END-->
+    <div class="center">
+<!--Content-->
+<div id="content">
+<div class="single_wrap">
+<div class="single_post">
+
+                
+                <div id="content_wrap" class="error_page">
+            <!--404 Error-->
+            <div class="fourofour"><label><a>404</a></label></div>
+            <div class="post">
+            <h2>Page Not Found</h2>
+            <div class="error_msg">
+            <p><label>Server cannot find the file you requested. File has either been moved or deleted, or you entered the wrong URL or document name. Look at the URL. If a word looks misspelled, then correct it and try it again. If that doesnt work You can try our search option to find what you are looking for.</label></p>
+            <form role="search" method="get" id="searchform" class="searchform" action="http://verdemagazine.com/">
+				<div>
+					<label class="screen-reader-text" for="s">Search for:</label>
+					<input type="text" value="" name="s" id="s" />
+					<input type="submit" id="searchsubmit" value="Search" />
+				</div>
+			</form>            </div>
+        </div>     
+                
+            </div>
+                
+                
+                
+                        </div>
+
+                </div>
+			<div class="comments_template"></div>
+
+
+    </div>
+   
+    <!--PAGE END-->
+    
+
+
+<!--FOOTER SIDEBAR-->
+
+	<!--COPYRIGHT TEXT-->
+    <div id="copyright">
+            <div class="copytext">
+                       </div>
+        <!--FOOTER MENU-->    
+            <div id="footmenu"><div class="menu-footer"><ul id="menu-footer" class="menu"><li id="menu-item-5768" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5768"><a href="http://verdemagazine.com/about">Contact Us</a></li>
+<li id="menu-item-5522" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5522"><a href="http://verdemagazine.com/staff">Staff</a></li>
+<li id="menu-item-5523" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5523"><a href="http://verdemagazine.com/ethics-policy">Policy</a></li>
+<li id="menu-item-5524" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5524"><a href="http://verdemagazine.com/advertise">Advertise</a></li>
+</ul></div></div>
+    </div>
+</div><!--Center Wrap END-->
+<!--Google Analytics-->
+<script type="text/javascript">
+	/* <![CDATA[ */
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-51262725-1']);
+  _gaq.push(['_setDomainName', 'none']);
+  _gaq.push(['_setAllowLinker', true]);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+  /* ]]> */
+</script>
+<!--Google Analytics END-->
+
+<script type="text/javascript">
+__tlid = '597143453867966466';
+__tlconfig = {hOverflow: false, vOverflow: false};
+setTimeout(function(){(function(d,t){var s=d.createElement(t),x=d.getElementsByTagName(t)[0];
+s.type='text/javascript';s.async=true;s.src='//cdn.thinglink.me/jse/embed.js';
+x.parentNode.insertBefore(s,x);})(document,'script');},0);
+</script>	<div style="display:none">
+	</div>
+
+ <script type="text/javascript">
+    jQuery(window).load(function() {
+		
+		 if(jQuery.support.touch){
+			 jQuery('#zn_nivo').nivoSlider({
+                        effect: 'slideInLeft',
+                        animSpeed: 250, // Slide transition speed
+                        pauseTime: 5000 // How long each slide will show
+                    });
+ 
+                    jQuery('a.nivo-nextNav').css('visibility', 'hidden');
+                    jQuery('a.nivo-prevNav').css('visibility', 'hidden');
+ 
+                    //Then Finish Up swipeleft and swiperight
+                    jQuery('#zn_nivo').bind( 'swipeleft', function( e ) {
+                        jQuery('#zn_nivo img').attr("data-transition","slideInLeft");
+                        jQuery('a.nivo-nextNav').trigger('click');
+                        e.stopImmediatePropagation();
+                        return false; }     
+                    );  
+ 
+                    jQuery('#zn_nivo').bind( 'swiperight', function( e ) {
+                        jQuery('#zn_nivo img').attr("data-transition","slideInRight");
+                        jQuery('a.nivo-prevNav').trigger('click');
+                        e.stopImmediatePropagation();
+                        return false; } 
+ 
+                    ); 
+ 
+			 } else { 
+			 
+        jQuery('#zn_nivo').nivoSlider({effect: 'random', pauseTime: 5000, controlNavThumbs: true, controlNavThumbsReplace: '-150x150.jpg', pauseOnHover: true});}
+    });
+    </script>
+   
+     
+    <script type="text/javascript">
+	/* <![CDATA[ */
+    jQuery(document).ready(function() {
+	jQuery('#tabs li:eq(3), #tabs li:eq(4), #tabs li:eq(5), #tabs li:eq(6)').remove();	
+	var n = jQuery("#tabs li").length;
+	if (n > 1) {
+	jQuery('#tabs li a').featureList({
+		output			:	'#output li',
+		start_item		:	1,
+		transition_interval: 3000,
+		pause_on_hover : true
+		});
+}
+	});
+	/* ]]> */
+    </script>
+    
+
+     <script type="text/javascript">
+	/* <![CDATA[ */
+		jQuery().ready(function() {
+
+	jQuery('#topmenu').prepend('<div id="menu-icon">Menu</div>');
+	jQuery("#menu-icon").on("click", function(){
+		jQuery("#topmenu ul.menu, #topmenu div.menu ul").slideToggle();
+		jQuery(this).toggleClass("menu_active");
+	});
+
+		});
+	/* ]]> */
+	</script>
+
+    <script type='text/javascript' src='http://verdemagazine.com/wp-content/plugins/jetpack/modules/photon/photon.js?ver=20130122'></script>
+<script type='text/javascript' src='http://verdemagazine.com/wp-content/plugins/contact-form-7/includes/js/jquery.form.min.js?ver=3.51.0-2014.06.20'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var _wpcf7 = {"loaderUrl":"http:\/\/verdemagazine.com\/wp-content\/plugins\/contact-form-7\/images\/ajax-loader.gif","sending":"Sending ..."};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://verdemagazine.com/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=4.1.2'></script>
+<script type='text/javascript' src='http://s0.wp.com/wp-content/js/devicepx-jetpack.js?ver=201520'></script>
+<script type='text/javascript' src='http://s.gravatar.com/js/gprofiles.js?ver=2015Mayaa'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var WPGroHo = {"my_hash":""};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://verdemagazine.com/wp-content/plugins/jetpack/modules/wpgroho.js?ver=4.2.2'></script>
+<script type='text/javascript' src='http://stats.wp.com/e-201520.js' async defer></script>
+<script type='text/javascript'>
+	_stq = window._stq || [];
+	_stq.push([ 'view', {v:'ext',j:'1:3.5.3',blog:'41039173',post:'0',tz:'-8',srv:'verdemagazine.com'} ]);
+	_stq.push([ 'clickTrackerInit', '41039173', '0' ]);
+</script>
+</body>
+</html>
